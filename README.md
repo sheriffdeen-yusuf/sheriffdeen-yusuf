@@ -10,9 +10,10 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on any interesting web project
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yusuf-sheriffdeen-203199185/)
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: ...
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheriffdeen-yusuf&show_icons=true)
+<!-- - ⚡ Fun fact: ... -->
 
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheriffdeen-yusuf&show_icons=true)
 
 Languages and Tools: 
 <a href="https://github.com/sheriffdeen-yusuf">
